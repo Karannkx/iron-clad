@@ -66,14 +66,14 @@ export default function Contact() {
               <div className="w-12 h-12 bg-neutral-900 rounded-full flex items-center justify-center text-brand shrink-0"><i className="ri-mail-fill text-xl"></i></div>
               <div>
                 <h4 className="font-bold text-white text-lg">Email Us</h4>
-                <p className="text-neutral-400">support@ironclad.com</p>
+                <p className="text-neutral-400">kkumar04600@gmail.com</p>
               </div>
             </div>
             <div className="flex items-start gap-4">
               <div className="w-12 h-12 bg-neutral-900 rounded-full flex items-center justify-center text-brand shrink-0"><i className="ri-phone-fill text-xl"></i></div>
               <div>
                 <h4 className="font-bold text-white text-lg">Call Us</h4>
-                <p className="text-neutral-400">+1 (555) 123-4567</p>
+                <p className="text-neutral-400">+919318308433</p>
               </div>
             </div>
           </div>
